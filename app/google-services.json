@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "543610460150",
+    "firebase_url": "https://simply-meal.firebaseio.com",
+    "project_id": "simply-meal",
+    "storage_bucket": "simply-meal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:543610460150:android:b7fe940438d0008a0d19d7",
+        "android_client_info": {
+          "package_name": "id.ac.umn.simplymeal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "543610460150-5j22pvhm3of1j9rsb1b9kra7vd93f589.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "id.ac.umn.simplymeal",
+            "certificate_hash": "f4ca77682638cbd1404bba037257c6f37090303d"
+          }
+        },
+        {
+          "client_id": "543610460150-e9gm6dbh6h25gk9gpcsfli6n9d6sk8ks.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "id.ac.umn.simplymeal",
+            "certificate_hash": "0eb1ce90618b1d9a58374e1a302bff3f98e49515"
+          }
+        },
+        {
+          "client_id": "543610460150-47ag3gtpj1nolleeeji54okf0tu5b39h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5eMmgGgeNGflJ1FZACfEvFRKkYtxsc_g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "543610460150-47ag3gtpj1nolleeeji54okf0tu5b39h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
